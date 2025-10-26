@@ -1,32 +1,38 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# CJ Interior Fusion
 
+**Website:** [www.cjinteriorfusion.com](https://www.cjinteriorfusion.com)  
+**Email:** contact@cjinteriorfusion.com *(or your preferred email)*  
+**Instagram:** [@cj_interiorfusion](https://www.instagram.com/cj_interiorfusion)  
+**Designer & Developer:** Chetan Jangid  
+**Template Base:** “Massively” by HTML5 UP (https://html5up.net/massively)  
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+---
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+### 🏠 About
+CJ Interior Fusion is a UAE-based interior design and 3D visualization studio,  
+specializing in modern, luxurious, and functional interior spaces.  
 
-(* = not included)
+This website showcases a curated collection of our **3D renders, interior projects, and design inspirations**.
 
-AJ
-aj@lkn.io | @ajlkn
+---
 
+### ⚙️ Technology Used
+- **HTML5 / CSS3 / JavaScript**  
+- **Responsive design** powered by HTML5 UP framework  
+- **Hosting:** GitHub Pages (Free SSL & domain connection)
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### 🖼️ Credits
+- **Template:** Massively by [AJ](https://html5up.net) (licensed under Creative Commons Attribution 3.0)  
+- **Images:** © CJ Interior Fusion / Unsplash (for placeholder images)  
+- **Icons:** Font Awesome  
+- **Scripts:** jQuery, Scrollex, Responsive Tools  
 
-	Icons:
-		Font Awesome (fontawesome.io)
+---
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+### 📜 License
+This project uses the **Massively template** by HTML5 UP,  
+available for free under the [Creative Commons Attribution 3.0 License](https://html5up.net/license).  
+
+All content, text, and project images are © CJ Interior Fusion.
